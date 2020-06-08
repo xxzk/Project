@@ -5,19 +5,21 @@
 + 建立 Linux 開發環境，保留舊有 Windows 10 （雙系統）
 
 ![DualSys](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2014-26-18.png "雙系統")
-<center> 選擇 Linux Mint (Ubuntu) </center>
+
+<div style="text-align:center"> 選擇 Linux Mint (Ubuntu) </div>
+
 <br>
 
 ![partition](https://github.com/xxzk/Project/raw/master/pic/xzk_UX410_lsblk.png "")
-<center>分割區規劃</center>
+<div style="text-align:center">分割區規劃</div>
 
 <br>
 
 ![nv-smi](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2014-40-22.png "nVidia SMI Linux 驅動")
-<center> nVidia SMI Linux 驅動 </center>
+<div style="text-align:center"> nVidia SMI Linux 驅動 </div>
 
 ![VSCode](https://github.com/xxzk/Project/raw/master/pic/VSCode_2.png "開源編輯器 VSCode")
-<center> 開源編輯器 VSCode </center>
+<div style="text-align:center"> 開源編輯器 VSCode </div>
 
 <br>
 
@@ -26,10 +28,10 @@
 [Source Code 來源- Simple PTT Crawler](https://github.com/chrisyang-tw/Simple_PTT_Crawler/)
 
 ![crawler_demo_1](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202019-12-27%2015-09-37.png "DEMO_1")
-<center> 實際執行 1 </center>
+<div style="text-align:center"> 實際執行 1 </div>
 
 ![crawler_demo_2](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2013-56-28.png "DEMO_2")
-<center> 實際執行 2 匯出 csv </center>
+<div style="text-align:center"> 實際執行 2 匯出 csv </div>
 
 <br>
 
@@ -37,15 +39,15 @@
 
 
 ![clonezilla](https://github.com/xxzk/Project/raw/master/pic/clonezilla.jpg "CloneZilla")
-<center> CloneZilla 備份中 </center>
+<div style="text-align:center"> CloneZilla 備份中 </div>
 
 ![rclone](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2022-26-08.png "rclone")
-<center> rclone 進行異地備份 </center>
+<div style="text-align:center"> rclone 進行異地備份 </div>
 
 + 持續接觸自由軟體以及 Linux OS
 
 ![addPoint](https://github.com/xxzk/Project/raw/master/pic/cloud_addPoint.png "加分表")
-<center> 修習 洪朝貴 老師雲端運算 </center>
+<div style="text-align:center"> 修習 洪朝貴 老師雲端運算 </div>
 
 ---
 
