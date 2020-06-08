@@ -9,10 +9,12 @@
 <p align="center"> 選擇 Linux Mint (Ubuntu) </p>
 
 <br>
+<br>
 
 ![partition](https://github.com/xxzk/Project/raw/master/pic/xzk_UX410_lsblk.png "")
 <p align="center">分割區規劃</p>
 
+<br>
 <br>
 
 ![nv-smi](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2014-40-22.png "nVidia SMI Linux 驅動")
@@ -21,6 +23,7 @@
 ![VSCode](https://github.com/xxzk/Project/raw/master/pic/VSCode_2.png "開源編輯器 VSCode")
 <p align="center"> 開源編輯器 VSCode </p>
 
+<br>
 <br>
 
 + 站在巨人肩膀上，跑別人寫好的 PTT 看板爬蟲，順便驗證搭建好的 Linux Mint 開發環境
@@ -33,6 +36,7 @@
 ![crawler_demo_2](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2013-56-28.png "DEMO_2")
 <p align="center"> 實際執行 2 匯出 csv </p>
 
+<br>
 <br>
 
 + 使用國家高速網路與計算中心開發的 CloneZilla 備份整顆硬碟
