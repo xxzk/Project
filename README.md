@@ -2,6 +2,8 @@
 
 ### 實際工作展示
 
+<br>
+
 + 建立 Linux 開發環境，保留舊有 Windows 10 （雙系統）
 
 ![DualSys](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2014-26-18.png "雙系統")
@@ -19,6 +21,9 @@
 
 ![nv-smi](https://github.com/xxzk/Project/raw/master/pic/Screenshot%20from%202020-06-06%2014-40-22.png "nVidia SMI Linux 驅動")
 <p align="center"> nVidia SMI Linux 驅動 </p>
+
+<br>
+<br>
 
 ![VSCode](https://github.com/xxzk/Project/raw/master/pic/VSCode_2.png "開源編輯器 VSCode")
 <p align="center"> 開源編輯器 VSCode </p>
